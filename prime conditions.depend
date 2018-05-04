@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477393573 source:c:\users\mihneavisoiu\desktop\prime conditions\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+
